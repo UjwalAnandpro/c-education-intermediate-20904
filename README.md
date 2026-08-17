@@ -1,8 +1,3 @@
 # c-education-intermediate-20904
 
-AI README generation failed.
-
-## Main File
-```
-src/main.c
-```
+This repository contains boilerplate code for c-education-intermediate-20904.
