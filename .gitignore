@@ -1,0 +1,7 @@
+*.exe
+*.o
+*.obj
+build/
+.vscode/
+demo_text.txt
+student_data.bin

@@ -1,1 +1,12 @@
-Sample notes for c-education-intermediate-20904.
+c-education-intermediate-20904 Notes
+======================================
+- Intermediate C Educational Platform (C99).
+- Topics Covered:
+  1. Pointers, Double Pointers & Heap Memory (malloc/realloc/free)
+  2. Data Structures (Linked Lists, Stacks, Binary Search Trees)
+  3. Structs, Unions, Bitfields & CPU Alignment/Padding
+  4. Function Pointers, Dynamic Dispatch & Generic qsort Callbacks
+  5. Bitwise Manipulation, Binary Inspection & Bitmask Flags
+  6. Text File I/O & Binary Struct Serialization (fwrite/fread)
+  7. Interactive Comprehensive Assessment Quiz
+- Compilation: GCC, Clang, MSVC, Make, CMake.
